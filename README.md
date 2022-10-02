@@ -11,7 +11,7 @@ I have used pandas and numpy libraries to perform Data preprocessing required.
 
 **Parameter 10**
 
-![Parameter 10](Images/download (1).png)
+![Parameter 10](Images/download(1).png)
 
 **Parameter 11**
 
