@@ -10,14 +10,18 @@ I have used pandas and numpy libraries to perform Data preprocessing required.
 ![Parameter 9](Images/download.png)
 
 **Parameter 10**
+
 ![Parameter 10](Images/download (1).png)
 
 **Parameter 11**
+
 ![Parameter 11](Images/download (1).png)
 
 **Parameter 12**
+
 ![Parameter 12](Images/download (3).png)
 
 **Parameter 13**
+
 ![Parameter 13](Images/download (4).png)
 
